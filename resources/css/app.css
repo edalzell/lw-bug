@@ -1,0 +1,8 @@
+/* Fonts */
+@import url("https://use.typekit.net/ksw7mxd.css");
+/* Icons */
+@import url("https://kit.fontawesome.com/b3fdd469b4.css");
+/* Tailwind Core */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
